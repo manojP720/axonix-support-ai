@@ -26,3 +26,7 @@ Thumbs.db
 # Local database and runtime data
 *.db
 *.sqlite
+.venv/
+.env
+__pycache__/
+*.pyc
